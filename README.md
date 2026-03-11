@@ -1,4 +1,7 @@
-# fore-end
+# 开智前的作品，点开这个就是浪费你时间
+## Works before Kai Zhi, clicking this is just a waste of your time
+
+### fore-end
 个人前端项目作品集（持续更新）
 项目介绍
 这份文档汇总了我开发的三个前端相关项目，涵盖静态展示网页、原生前端开发的毕业设计以及基于 Vue 框架结合 MQTT 协议的交互界面开发，完整体现了从基础前端开发到框架应用、协议集成的技术能力。
